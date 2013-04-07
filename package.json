@@ -1,5 +1,5 @@
 {
-    "name": "ms-master",
+    "name": "mdl-master",
     "version": "0.1.0",
     "description": "MDL Developer toolkit - version dependency",
     "main": "lib/init.js",
