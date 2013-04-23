@@ -1,6 +1,6 @@
 {
     "name": "mdl-master",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "MDL Developer toolkit - version dependency",
     "main": "lib/init.js",
     "bugs": {
